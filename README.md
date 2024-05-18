@@ -1,4 +1,4 @@
-# TagueMeet
+# Tague Meet
 
 ![Tague Meet](https://github.com/kevinkenfack/TagueMeet/blob/main/public/images/preview.png)
 
