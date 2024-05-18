@@ -1,8 +1,8 @@
 # TagueMeet
 
-![Blog Kevin Kenfack](https://blog.kevinkenfack.com/site-image.jpg)
+![Tague Meet](https://github.com/kevinkenfack/TagueMeet/blob/main/public/images/preview.png)
 
-TagueMeet est une application de visioconférence similaire à Google Meet, conçue pour offrir une expérience fluide et sécurisée pour les réunions en ligne. Cette application a été développée avec les dernières technologies web pour garantir des performances optimales et une facilité d'utilisation.
+**Tague Meet** est une application de visioconférence similaire à Google Meet, conçue pour offrir une expérience fluide et sécurisée pour les réunions en ligne. Cette application a été développée avec les dernières technologies web pour garantir des performances optimales et une facilité d'utilisation.
 
 ## Technologies utilisées
 
