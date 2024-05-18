@@ -1,5 +1,7 @@
 # TagueMeet
 
+![Blog Kevin Kenfack](https://blog.kevinkenfack.com/site-image.jpg)
+
 TagueMeet est une application de visioconférence similaire à Google Meet, conçue pour offrir une expérience fluide et sécurisée pour les réunions en ligne. Cette application a été développée avec les dernières technologies web pour garantir des performances optimales et une facilité d'utilisation.
 
 ## Technologies utilisées
@@ -11,7 +13,7 @@ TagueMeet a été développé en utilisant les technologies suivantes :
 - **TypeScript** : Un langage de programmation open source qui étend JavaScript en lui ajoutant des types, assurant une meilleure maintenabilité et des erreurs de développement réduites.
 - **Clerk** : Une bibliothèque d'authentification et d'autorisation qui offre une gestion simple et sécurisée des utilisateurs et des sessions.
 - **GetStream** : Une API de chat et de flux d'activité pour ajouter des fonctionnalités de chat en temps réel à l'application.
-- **Shadcn** : [Besoin de plus de détails sur Shadcn, car je ne suis pas sûr de ce dont il s'agit.]
+- **Shadcn** : l s'agit d'une collection de composants réutilisables intégrable facilement en les copiant / collant directement dans les applications de notre choix.
 
 ## Fonctionnalités
 
@@ -35,7 +37,7 @@ Les contributions à TagueMeet sont les bienvenues ! Si vous souhaitez contribue
 
 ## Auteurs
 
-TagueMeet a été développé par [Votre Nom/Organisation].
+TagueMeet a été développé par **[KEVIN KENFACK](https://www.kevinkenfack.com/)**
 
 ## Licence
 

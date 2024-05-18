@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: " TAGUE MEET",
-  description: "Application d'appel vidéo ",
+  description: "Application d'appel vidéo By Kevin Kenfack ",
   icons: {
     icon: "/icons/logo.svg",
   },
