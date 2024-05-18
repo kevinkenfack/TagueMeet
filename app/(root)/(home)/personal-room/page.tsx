@@ -57,26 +57,26 @@ const PersonalRoom = () => {
 
   return (
     <section className="flex size-full flex-col gap-10 text-white">
-      <h1 className="text-xl font-bold lg:text-3xl">Personal Meeting Room</h1>
+      <h1 className="text-xl font-bold lg:text-3xl">Salle de réunion personnelle</h1>
       <div className="flex w-full flex-col gap-8 xl:max-w-[900px]">
-        <Table title="Topic" description={`${user?.username}'s Meeting Room`} />
-        <Table title="Meeting ID" description={meetingId!} />
-        <Table title="Invite Link" description={meetingLink} />
+        <Table title="Sujet" description={`${user?.username}'s Meeting Room`} />
+        <Table title="ID du meet" description={meetingId!} />
+        <Table title="Lien d'invitation" description={meetingLink} />
       </div>
       <div className="flex gap-5">
         <Button className="bg-blue-1" onClick={startRoom}>
-          Start Meeting
+          Commencer la réunion
         </Button>
         <Button
           className="bg-dark-3"
           onClick={() => {
             navigator.clipboard.writeText(meetingLink);
             toast({
-              title: "Link Copied",
+              title: "Lien copié",
             });
           }}
         >
-          Copy Invitation
+          Copier le lien d'invitation
         </Button>
       </div>
     </section>
