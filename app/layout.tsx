@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: " TAGUE MEET",
-  description: "Video calling App",
+  description: "Application d'appel vidéo ",
   icons: {
     icon: "/icons/logo.svg",
   },
@@ -22,7 +22,8 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: ReactNode }>) {
   return (
-    <html lang="en">
+    <html lang="fr">
+      <head><meta name="theme-color" content="#0e78f9"/></head>
       <ClerkProvider
         appearance={{
           layout: {
