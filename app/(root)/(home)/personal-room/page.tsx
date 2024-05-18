@@ -61,7 +61,7 @@ const PersonalRoom = () => {
       <div className="flex w-full flex-col gap-8 xl:max-w-[900px]">
         <Table title="Sujet" description={`${user?.username}'s Meeting Room`} />
         <Table title="ID du meet" description={meetingId!} />
-        <Table title="Lien d'invitation" description={meetingLink} />
+        <Table title="Lien d&apos;invitation" description={meetingLink} />
       </div>
       <div className="flex gap-5">
         <Button className="bg-blue-1" onClick={startRoom}>
@@ -76,7 +76,7 @@ const PersonalRoom = () => {
             });
           }}
         >
-          Copier le lien d'invitation
+          Copier le lien d&apos;invitation
         </Button>
       </div>
     </section>

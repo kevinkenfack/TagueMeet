@@ -13,7 +13,6 @@ import { Textarea } from './ui/textarea';
 import ReactDatePicker from 'react-datepicker';
 import { useToast } from './ui/use-toast';
 import { Input } from './ui/input';
-import fr from 'date-fns/locale/fr';
 
 
 const initialValues = {
